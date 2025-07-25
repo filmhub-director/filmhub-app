@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import '@fontsource/inter/index.css';
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #000; /* Чёрный фон */
+  color: #fff;            /* Белый текст */
+}

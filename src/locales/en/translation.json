@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome to FilmHub",
+  "description": "Watch the best movies online",
+  "lang": {
+    "ru": "Russian",
+    "en": "English",
+    "uz": "Uzbek"
+  }
+}
